@@ -572,7 +572,7 @@ Editor.template = [
     '    <div class="annotator-controls">',
     '     <a href="#cancel" class="annotator-cancel">' + _t('Cancel') + '</a>',
     '      <a href="#save"',
-    '         class="annotator-save annotator-focus">' + _t('Save') + '</a>',
+    '         class="annotator-save annotator-focus">' + _t('Persist') + '</a>',
     '    </div>',
     '  </form>',
     '</div>'
